@@ -1,2 +1,2 @@
 # python-flask-demo
-A minimal web server created using Python and Flask.
+A minimal web server created using Python, Flask, and Docker.
